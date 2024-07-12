@@ -2,6 +2,7 @@
 
 /**
  * main.c
+ * @brief Ajout d'un commentaire pour tester Git
  */
 #include <device.h>
 #include <driverlib.h>
